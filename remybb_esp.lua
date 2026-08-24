@@ -1,4 +1,3 @@
---[[ remybb_esp.lua  (unobfuscated ESP module) ]]
 local POOL = 16
 local VIS_SEG = 12
 
